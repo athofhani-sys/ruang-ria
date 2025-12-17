@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Promotion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Ruang Pelancong</div>
+        <ul class="nav-links">
+            <li><a href="#overview">Overview</a></li>
+            <li><a href="#itinerary">Itinerary</a></li>
+            <li><a href="#highlights">Highlights</a></li>
+            <li><a href="#price">Price</a></li>
+        </ul>
+    </nav>
+    <header class="hero">
+        <h1>Affordable For Students</h1>
+        <p>Explore Jakarta - Bandung with Ruang Pelancong</p>
+        <div class="hero-images">
+            <img src="carousel-image1.jpeg" alt="Jakarta Dufan">
+            <img src="carousel-image2.jpeg" alt="Bandung Heritage">
+        </div>
+    </header>
+    <main>
+        <section id="overview">
+            <h2>3D2N Jakarta Bandung Student Trip</h2>
+            <p>A short escape that combines amusement parks, shopping streets, hot springs, and local food.</p>
+            <button>View Package</button>
+        </section>
+        ...
+    </main>
+</body>
+</html>
